@@ -1,0 +1,35 @@
+/* start base css */
+@import url('https://fonts.googleapis.com/css2?family=Khula:wght@300;400;600;700;800&display=swap'); /* google fonts */
+
+/* end base css */
+
+
+
+
+/* start menu area */
+.logo img{
+    width: 80px;
+    padding: 10px;
+}
+.main-menu-area li{
+    list-style: none;
+    display: inline-block;
+    padding: 10px;
+    margin-top: 20px;
+}
+.main-menu-area a{
+    text-decoration: none;
+    color: gray;
+}
+.boxed-btn{
+    background: rgb(228, 69, 95);
+    padding: 15px;
+    margin: 53px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+.boxed-btn a{
+    text-decoration: none;
+    color: #fff;
+}
+/* end menu area */
